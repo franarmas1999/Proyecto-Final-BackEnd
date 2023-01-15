@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "0",
+            "title": "ROCKET-FS",
+            "description": "Borcego para hombres de verdad. Disenados tanto para el trabajo como para la aventura",
+            "price": "$40.000",
+            "thumbnail": "Foto",
+            "code": "borcego0",
+            "stock": "15"
+        },
+        {
+            "id": "1",
+            "title": "ROCKET-FS",
+            "description": "Borcego para hombres de verdad. Disenados tanto para el trabajo como para la aventura",
+            "price": "$40.000",
+            "thumbnail": "Foto",
+            "code": "borcego1",
+            "stock": "8"
+        },
+        {
+            "id": "2",
+            "title":"ROCKET-FS",
+            "description": "Borcego para hombres de verdad. Disenados tanto para el trabajo como para la aventura",
+            "price": "$40.000",
+            "thumbnail": "Foto",
+            "code": "borcego2",
+            "stock": "12"
+        }
+        
+    ]
+}
